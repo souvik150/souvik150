@@ -1,5 +1,7 @@
-<a href="#"><img align="center" width="100px" height="100px" src="https://raw.githubusercontent.com/souvikmukherjee150/VisheshBansal/main/assets/code.gif"/></a>
-
+<p align="center"> 
+<a href="#"><img align="center" width="400px" height="auto" src="https://raw.githubusercontent.com/souvikmukherjee150/VisheshBansal/main/assets/code.gif"/></a>
+</p>
+ 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Souvik Mukherjee</h1>
 <h3 align="center">A Fresher at VIT, Vellore and a MERN stack developer</h3>
 
