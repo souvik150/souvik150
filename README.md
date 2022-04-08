@@ -58,7 +58,7 @@
 <a href = "https://www.hackerrank.com/souvik_m"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" width="45" height="45" /></a>
 <a href = "https://www.stopstalk.com/user/profile/souvik_m"><img src="https://raw.githubusercontent.com/AbhJ/abhj/master/image/s.png" width="40" height="40"/></a>
 <a href = "https://www.codechef.com/users/souvik_m"><img src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" width="45" height="45"/></a>
-
+<a href = "https://leetcode.com/souvikmukherjee150/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonape.com%2Fleetcode-logo-white-no-text-logo-icon-svg-png.html&psig=AOvVaw31aMdkq5rfpBpHrszUMg9h&ust=1649510679091000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOjylKPIhPcCFQAAAAAdAAAAABAD" width="45" height="45"/></a>
 </p>
 
 ## 📊 My Github Stats
