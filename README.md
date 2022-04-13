@@ -15,11 +15,11 @@
 
 - 👯 I’m looking to collaborate on **ReactJS and NodeJS projects**
 
-- 💬 Ask me about **NodeJS, ReactJS and SASS**
+- 💬 Ask me about **Formula 1 and web development**
 
 - 📫 How to reach me **souvikmukherjee150@gmail.com**
 
-- ⚡ Fun fact **You can't beat me in Minecraft and Badminton.**
+- ⚡ Fun fact **You can't beat me in Minecraft PVP and bedwars.**
 <br>
 
 ## 🚀 Languages and Tools:
