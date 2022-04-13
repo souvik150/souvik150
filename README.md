@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Natours Website](https://github.com/souvikmukherjee150/TourWebsite)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👯 I’m looking to collaborate on **ReactJS and NodeJS projects**
 
