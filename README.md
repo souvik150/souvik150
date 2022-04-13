@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on [Natours Website](https://github.com/souvikmukherjee150/TourWebsite)
+- 🔭 I’m currently working on **Backend projects.**
 
 - 🌱 I’m currently learning **NodeJS**
 
