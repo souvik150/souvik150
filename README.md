@@ -2,7 +2,7 @@
 <a href="#"><img align="center" width="300px" height="auto" src="https://raw.githubusercontent.com/souvikmukherjee150/VisheshBansal/main/assets/code.gif"/></a>
 </p>
  
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Souvik Mukherjee</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Souvik Mukherjee</h1>
 <h3 align="center">A Fresher at VIT Vellore, Minecrafter and a full stack Web Developer</h3>
 
 <br>
