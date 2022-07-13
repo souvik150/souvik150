@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="#"><img align="center" width="300px" height="350px" src="https://raw.githubusercontent.com/souvikmukherjee150/VisheshBansal/main/assets/code.gif"/></a>
+<a href="#"><img align="center" width="500px" height="350px" src="https://raw.githubusercontent.com/souvikmukherjee150/VisheshBansal/main/assets/code.gif"/></a>
 </p>
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Souvik Mukherjee</h1>
