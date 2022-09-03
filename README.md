@@ -41,7 +41,7 @@
 <a href="https://firebase.google.com/?gclsrc=ds&gclsrc=ds&gclid=CNfn8OKzz_gCFQZ_jgod-Z8I9A" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://icedevera.com/images/skills/frontEnd/next.png" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.tpisoftware.com/tpu/articleDetails/2050" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.tpisoftware.com/tpu/File/html/202009/20200929151429/images/20200926171128.png" alt="framer" width="40" height="40"/> </a>
 <a href="https://docs.soliditylang.org/en/v0.8.16/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcLQ5KMj1dBqAppcygdHC5S6-2SYc_VfMBgvfZomJKn3-MTh6upBRsilS0&s=10" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
