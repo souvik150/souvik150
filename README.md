@@ -3,19 +3,19 @@
 </p>
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Souvik Mukherjee</h1>
-<h3 align="center">A Fresher at VIT Vellore, Minecrafter and a full stack Web Developer</h3>
+<h3 align="center">A Fresher at VIT Vellore, Minecrafter and a full stack App and Web Developer</h3>
 
 <br>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **ReactJS projects.**
+- 🔭 I’m currently working on **NodeJS Project.**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **ReactJS and NodeJS projects**
+- 👯 I’m looking to collaborate on **MERN Stack projects**
 
-- 💬 Ask me about **Formula 1 and web development**
+- 💬 Ask me about **Formula 1 and Web development**
 
 - 📫 How to reach me **souvikmukherjee150@gmail.com**
 
@@ -42,7 +42,8 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://icedevera.com/images/skills/frontEnd/next.png" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi1MTuwlPa0QNGajZxyTZJ_6VrmxWw_K-Dvw&usqp=CAU" alt="framer" width="40" height="40"/> </a>
-<a href="https://docs.soliditylang.org/en/v0.8.16/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcLQ5KMj1dBqAppcygdHC5S6-2SYc_VfMBgvfZomJKn3-MTh6upBRsilS0&s=10" width="40" height="40"/> </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="framer" width="40" height="40"/> </a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="framer" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
