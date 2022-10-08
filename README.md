@@ -7,7 +7,8 @@
 
 <br>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me  
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fsouvik150&countColor=%23263759)](https://visitorbadge.io/status?path=github.com%2Fsouvik150)
 
 - 🔭 I’m currently working on **NodeJS Project.**
 
