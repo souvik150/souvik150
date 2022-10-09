@@ -46,6 +46,8 @@
 <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" alt="framer" width="40" height="40"/> </a>
 
 ### Backend Development
+
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.netgains.org/wp-content/uploads/2014/01/node_js.png" alt="nodejs" width="40" height="45"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/?gclsrc=ds&gclsrc=ds&gclid=CNfn8OKzz_gCFQZ_jgod-Z8I9A" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
