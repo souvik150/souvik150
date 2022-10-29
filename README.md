@@ -3,7 +3,7 @@
 </p>
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Souvik Mukherjee</h1>
-<h3 align="center">Sophomore at VIT, Vellore and an aspiring Devops Engineer</h3>
+<h3 align="center">Sophomore at VIT, Vellore and a Devops Engineer</h3>
 
 <br>
 
@@ -49,9 +49,11 @@
 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.netgains.org/wp-content/uploads/2014/01/node_js.png" alt="nodejs" width="40" height="45"/> </a> 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="nodejs" width="45" height="45"/> </a>
- <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nodejs" width="40" height="45"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" alt="mysql" width="45" height="45"/> </a> 
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nodejs" width="40" height="45"/> </a> 
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/LtssBQ5vc1XZjVK09j7KMN5fo04gGGRNLS6eeso_GOz4xYgzZJbxVgQuz9LUVl8jqp8fdBST=s900-c-k-c0x00ffffff-no-rj" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngrepo.com/png/331488/512/mongodb.png" alt="mongodb" width="45" height="45"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" alt="mysql" width="45" height="45"/> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="mysql" width="45" height="45"/> </a> 
 <a href="https://firebase.google.com/?gclsrc=ds&gclsrc=ds&gclid=CNfn8OKzz_gCFQZ_jgod-Z8I9A" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
@@ -61,8 +63,11 @@
 <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Linux" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1712px-Amazon-S3-Logo.svg.png" alt="s3" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/1.22.1/1657550478485/Microsoft.VisualStudio.Services.Icons.Default" alt="s3" width="45" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/1.22.1/1657550478485/Microsoft.VisualStudio.Services.Icons.Default" alt="docker" width="45" height="40"/> </a>
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="45" height="45"/> </a>
+ <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="gitlab" width="45" height="40"/> </a>
 
+ 
 
 ### App Development
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="framer" width="40" height="40"/> </a>
