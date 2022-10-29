@@ -3,18 +3,18 @@
 </p>
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Souvik Mukherjee</h1>
-<h3 align="center">A Fresher at VIT Vellore, Minecrafter and a full stack App and Web Developer</h3>
+<h3 align="center">Sophomore at VIT, Vellore and An aspiring Devops Engineer</h3>
 
 <br>
 
 ## 🙋‍♂️ About Me  
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fsouvik150&countColor=%23263759)](https://visitorbadge.io/status?path=github.com%2Fsouvik150)
 
-- 🔭 I’m currently working on **NodeJS Project.**
+- 🔭 I’m currently working on **Flutter Projects**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **MERN Stack projects**
+- 👯 I’m looking to collaborate on **NestJS Projects**
 
 - 💬 Ask me about **Formula 1 and Web development**
 
