@@ -3,7 +3,7 @@
 </p>
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Souvik Mukherjee</h1>
-<h3 align="center">Sophomore at VIT, Vellore and An aspiring Devops Engineer</h3>
+<h3 align="center">Sophomore at VIT, Vellore and an aspiring Devops Engineer</h3>
 
 <br>
 
