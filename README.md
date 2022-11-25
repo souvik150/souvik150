@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Flutter Projects**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **NestJS Projects**
 
@@ -46,8 +46,10 @@
 <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" alt="framer" width="40" height="40"/> </a>
 
 ### Backend Development
-
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.netgains.org/wp-content/uploads/2014/01/node_js.png" alt="nodejs" width="40" height="45"/> </a> 
+ 
+ 
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1000/0*YISbBYJg5hkJGcQd.png" alt="go" width="40" height="45"/> </a> 
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.netgains.org/wp-content/uploads/2014/01/node_js.png" alt="nodejs" width="40" height="45"/> </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="nodejs" width="45" height="45"/> </a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nodejs" width="40" height="45"/> </a> 
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/LtssBQ5vc1XZjVK09j7KMN5fo04gGGRNLS6eeso_GOz4xYgzZJbxVgQuz9LUVl8jqp8fdBST=s900-c-k-c0x00ffffff-no-rj" alt="nodejs" width="40" height="40"/> </a> 
