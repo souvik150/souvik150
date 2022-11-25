@@ -48,7 +48,7 @@
 ### Backend Development
  
  
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1000/0*YISbBYJg5hkJGcQd.png" alt="go" width="40" height="45"/> </a> 
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1000/0*YISbBYJg5hkJGcQd.png" alt="go" width="40" height="45"/> </a> 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.netgains.org/wp-content/uploads/2014/01/node_js.png" alt="nodejs" width="40" height="45"/> </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="nodejs" width="45" height="45"/> </a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nodejs" width="40" height="45"/> </a> 
