@@ -113,28 +113,15 @@
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="figma"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="xd" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="xd"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator"/> </a>  
 
-</p>
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=souvik150&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-
-## 🔥My Competitive programming Stats:
-<p align="left">
- 
-<a href = "https://www.hackerrank.com/souvik_m"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" width="45" height="45" /></a>
-<a href = "https://www.stopstalk.com/user/profile/souvik_m"><img src="https://raw.githubusercontent.com/AbhJ/abhj/master/image/s.png" width="40" height="40"/></a>
-<a href = "https://www.codechef.com/users/souvik_m"><img src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" width="45" height="45"/></a>
-<a href = "https://leetcode.com/souvikmukherjee150/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="45" height="45"/></a>
 </p>
 
 ## 📊 My Github Stats
 
 <br>
-
+<img src="https://github-readme-stats.vercel.app/api?username=souvik150&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br>
 <p align="left">
     <a href="https://github.com/souvik150/github-readme-streak-stats">
