@@ -111,7 +111,7 @@
 
 <a href = "https://www.linkedin.com/in/souvik-mukherjee-355943123/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/souvik150/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/souvikmukherjee_150/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/souvik150.yaml/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
   
 </p>
 
