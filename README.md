@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👯 I’m looking to collaborate on **NestJS Projects**
+- 👯 I’m looking to collaborate on **Flutter App Dev**
 
 - 💬 Ask me about **Formula 1 and Web development**
 
