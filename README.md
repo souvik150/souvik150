@@ -75,6 +75,7 @@
 * Arch Linux
 * Git
 * Bash
+* Travis CI
 * AWS
 * GCP
 * Digital Ocean
