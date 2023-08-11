@@ -102,10 +102,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=souvik150&theme=dark&border_radius=4.7)](https://git.io/streak-stats)
 
 
-  <a href="https://github.com/souvik150/github-readme-stats"><img alt="Souvik Mukherjee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvik150&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-
-
 
 ## 🤝Connect with me:
 <p align="left">
