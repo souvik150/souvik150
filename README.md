@@ -1,14 +1,16 @@
 <h1 align="center">Hello I'm Souvik Mukherjee</h1>
-<h3 align="center">Sophomore at VIT, Vellore and a Devops Engineer</h3>
+<h3 align="center">Backend and Devops Engineer</h3>
+<h5 align="center">NodeJS | Golang | Rust | Flutter | NextJS </h5>
+
 
 <br>
 
 ## 🙋‍♂️ About Me  
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fsouvik150&countColor=%23263759)](https://visitorbadge.io/status?path=github.com%2Fsouvik150)
 
-- 🔭 I’m currently working on **Flutter Projects**
+- 🔭 I’m currently working on **Backend Projects**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Flutter App Dev**
 
