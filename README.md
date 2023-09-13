@@ -132,8 +132,5 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
 </div>
 
-###
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-###
