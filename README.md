@@ -134,8 +134,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/souvik150/souvik150/output/snake.svg" alt="Snake animation" />
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ###
