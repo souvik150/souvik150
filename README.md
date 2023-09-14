@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="center">NodeJS | Golang | Rust | Flutter | NextJS</h4>
+<h2 align="center">NodeJS | Golang | Rust | Flutter | NextJS</h2>
 
 ###
 
