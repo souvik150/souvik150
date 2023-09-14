@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Souvik Mukherjee and I'm a Undergrad from India</h2>
+<h2 align="center">Hi 👋! My name is Souvik Mukherjee and I'm a Undergrad from India</h2>
 
 ###
 
