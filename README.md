@@ -9,6 +9,7 @@
 ###
 
 <h3 align="center">Backend and Devops Engineer</h3>
+<p align="center"> I also have experience in Frontend, Mobile, Blockchain, ML and Security Technologies</p>
 
 ###
 
