@@ -1,23 +1,15 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/souvik150/count.svg?"  />
-</div>
+###
+
+<h2 align="center">Hi 👋! My name is Souvik Mukherjee and I'm an Analyst SWE from India</h2>
 
 ###
 
-<h2 align="center">Hi 👋! My name is Souvik Mukherjee and I'm a Undergrad from India</h2>
+<h3 align="center">Analyst SWE @ Zanskar Research </h3>
+
+<p align="center"> I specialise in low-level programming and trading systems. </p>
 
 ###
 
-<h3 align="center">ML and Backend Engineer</h3>
-<h3 align="center">I also use Arch btw :)</h3>
-
-<p align="center"> I also have experience in Frontend, Mobile, Blockchain, ML and Security, Devops Technologies</p>
-
-###
-
-<h2 align="center">Solidity | Golang | Rust | Flutter | NextJS</h2>
-
-###
 
 <div align="left">
   <a href="https://www.instagram.com/souvik150.life/" target="_blank">
